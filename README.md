@@ -1,16 +1,17 @@
-## Hi there 👋
+Evelyn Trindade Santos
 
-<!--
-**santos-trin/Santos-trin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 15 anos
 
-Here are some ideas to get you started:
+- Estudante do 1° ano do ensino médio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Curso: Alura Iniciante
+
+![](https://media.tenor.com/eNVQ1fZNV4gAAAAM/billie-eilish-billie.gif)
+
+
+
+
+
+
+
+
